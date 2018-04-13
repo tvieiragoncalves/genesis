@@ -8,4 +8,4 @@ github_username:  tvieiragoncalves
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: owner/name

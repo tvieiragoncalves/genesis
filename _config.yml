@@ -8,4 +8,5 @@ github_username:  tvieiragoncalves
 
 # Build settings
 markdown: kramdown
-remote_theme: owner/name
+remote_theme: TaylanTatli/Moon
+

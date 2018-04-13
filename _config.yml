@@ -9,5 +9,5 @@ github_username:  tvieiragoncalves
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/so-simple-theme
-
-
+disqus:
+  shortname: disqus_QqD9cohBYH

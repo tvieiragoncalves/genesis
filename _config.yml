@@ -12,3 +12,8 @@ remote_theme: mmistakes/so-simple-theme
 disqus:
   shortname: genesis-2
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+- jekyll-paginate

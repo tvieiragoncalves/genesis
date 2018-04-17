@@ -8,7 +8,8 @@ github_username:  tvieiragoncalves
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/so-simple-theme
+
 disqus:
   shortname: genesis-2
 

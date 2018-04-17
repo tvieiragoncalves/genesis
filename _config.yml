@@ -26,3 +26,5 @@ footer_links:
   - title: Feed
     url: atom.xml
 icon: fas fa-rss-square
+
+search_full_content: true

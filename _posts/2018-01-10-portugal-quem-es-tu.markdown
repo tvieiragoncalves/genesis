@@ -3,6 +3,7 @@ layout: post
 title:  "Portugal quem és tu ?"
 date:   2018-01-10 18:35:00 +0100
 categories: jekyll update
+share: true
 ---
 Há uns dois anos decorreu uma iniciativa chamada “Portugal, quem és tu ?” que colocava a debate o país na sua identidade e génese. Recordando esta iniciativa e a pergunta que lhe confere o título surgiu-me a ideia de pensar sobre este tema.
 

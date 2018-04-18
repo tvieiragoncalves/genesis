@@ -7,12 +7,7 @@ share: true
 author:
   name: Tiago Gonçalves
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
-  twitter: @tiago_1989
-  links:
-    - title: Twitter
-      url: https://twitter.com/tiago_1989
-      icon: fab fa-twitter-square
-    
+  twitter: @tiago_1989    
 ---
 Tudo é criação!
 

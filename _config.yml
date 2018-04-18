@@ -27,7 +27,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Facebook
     url: https://www.facebook.com/magazinegenesis/
-    icon: fas-facebook-rss-square
+    icon: fab fa-facebook-square
   - title: Feed
     url: feed.xml
     icon: fas fa-rss-square

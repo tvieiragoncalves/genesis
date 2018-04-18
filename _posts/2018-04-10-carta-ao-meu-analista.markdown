@@ -3,7 +3,6 @@ layout: post
 title:  "Carta ao meu analista"
 date:   2018-04-10 18:35:00 +0100
 categories: Psicologia Psicanálise
-image: /images/sigmund-freud.jpg
 share: true
 author:
   name: Tiago Gonçalves
@@ -11,6 +10,7 @@ author:
   twitter: tiago_1989
 
 ---
+<img src="/images/sigmund-freud.jpg" class="align-left" alt="">
 Caro colega
 
 Só me aborrece saber que, uma tessitura de realidade, uma esfera opaca, uma pátria do pensamento me estreitam a visão.

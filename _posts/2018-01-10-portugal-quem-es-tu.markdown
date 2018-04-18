@@ -2,7 +2,7 @@
 layout: post
 title:  "Portugal quem és tu ?"
 date:   2018-01-10 18:35:00 +0100
-categories: jekyll update
+categories: País Portugal
 share: true
 author:
   name: Tiago Gonçalves

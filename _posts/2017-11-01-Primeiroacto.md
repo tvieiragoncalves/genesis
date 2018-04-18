@@ -1,14 +1,16 @@
 ---
+
 title:  "Primeiro acto - o da criação"
-layout: post
-date: 2017-11-01 18:35:00 +0100
+date:   2017-11-01 18:35:00 +0100
 categories: genesis início
 share: true
 author:
   name: Tiago Gonçalves
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
-  twitter: @tiago_1989    
+  twitter: tiago_1989
+
 ---
+
 Tudo é criação!
 
 Sem qualquer tipo de proselitismo não vos pretendemos persuadir a deixarem-se assomar por esta ideia, apenas que escutem o que temos para dizer e, se a vossa consciência o determinar, que esgrimam argumentos para que desse debate surjam outros.

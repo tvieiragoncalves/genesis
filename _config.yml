@@ -25,6 +25,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/tvieiragoncalves
     icon: fab fa-github-square
+  - title: Facebook
+    url: https://www.facebook.com/magazinegenesis/
+    icon: fas facebook-rss-square
   - title: Feed
     url: feed.xml
     icon: fas fa-rss-square

@@ -2,7 +2,7 @@
 layout: post
 title:  "Uma Passagem de Ano mediana"
 date:   2017-12-13 18:35:00 +0100
-categories: jekyll update
+categories: passagem de ano
 share: true
 author:
   name: Tiago Gonçalves

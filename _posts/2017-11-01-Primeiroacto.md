@@ -12,9 +12,7 @@ author:
     - title: Twitter
       url: https://twitter.com/tiago_1989
       icon: fab fa-twitter-square
-    - title: Github
-      url: https://github.com/tvieiragoncalves
-      icon: fab fa-github-square
+    
 ---
 Tudo é criação!
 

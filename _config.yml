@@ -27,6 +27,6 @@ footer_links:
     icon: fab fa-github-square
   - title: Feed
     url: feed.xml
-icon: fas fa-rss-square
+    icon: fas fa-rss-square
 
 search_full_content: true

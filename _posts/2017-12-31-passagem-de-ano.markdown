@@ -1,4 +1,3 @@
-
 ---
 
 title:  "Uma Passagem de Ano mediana"
@@ -11,6 +10,7 @@ author:
   twitter: tiago_1989
 
 ---
+
 Saio sempre à rua neste dia para me poder deleitar, que mais poderia eu fazer, o deleite acaba por ser algo obrigatório. No dia da passagem de ano não se vê viv’alma sem um portentoso sorriso de orelha a orelha, confesso que o acho excessivo afinal de contas é só mais uma volta ao sol que se assinala. Mas neste dia a nossa vocação para a festa é irreprimível, somos como que levados numa onda de euforia que contagia todos até os mais pacatos e taciturnos.
 
 Hoje ao que parece é o dia de fazer um salto de fé para o início daquela vida melhor que sempre desejamos, se calhar é até por isso que se presenciam alguns rituais bem curiosos. São exemplo as pessoas que se colocam em cima duma cadeira no momento das doze badaladas, presumo que não queiram molhar os pés caso aconteça um tsunami inesperado. Seguem-se também as pessoas que comem as passas, frutos vetados a um profundo abandono e completamente ignorados todo ano para serem ingeridos neste venturoso dia. Como não podia deixar de ser as cuecas azuis são também obrigatórias e neste caso julgo que não servem para prestar homenagem ao cabelo da Vanda Stuart. Dizem que quem as vestir para além de ter acondicionamento genital terá também muita sorte. Estou a pensar e se calhar vou experimentar algum destes rituais, ou algum das dezenas de outros que devem existir.

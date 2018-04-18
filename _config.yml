@@ -30,3 +30,5 @@ footer_links:
     icon: fas fa-rss-square
 
 search_full_content: true
+
+google_analytics: UA-28822996-1 

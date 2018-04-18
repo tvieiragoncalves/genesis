@@ -2,7 +2,7 @@
   url: /_posts/
 - title: Categories
   url: /_include/categories.md
-- title: External Page
+- title: Sobre mim
   url: https://whatever-site.com/page.html
 - title: Search
   url: /search/

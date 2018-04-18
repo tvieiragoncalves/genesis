@@ -2,7 +2,7 @@
 layout: post
 title:  "Primeiro acto - o da criação"
 date:   2017-11-01 18:35:00 +0100
-categories: genesis início
+categories: jekyll update
 share: true
 ---
 Tudo é criação!

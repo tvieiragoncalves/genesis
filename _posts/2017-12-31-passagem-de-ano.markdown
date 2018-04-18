@@ -7,11 +7,11 @@ share: true
 author:
   name: Tiago Gonçalves
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
-  twitter: tiago_1989 
-  links:
-    - title: Twitter
-      url: https://twitter.com/tiago_1989
-      icon: fab fa-twitter-square
+  twitter: @tiago_1989 
+    links:
+     - title: Twitter
+        url: https://twitter.com/tiago_1989
+        icon: fab fa-twitter-square
 ---
 Saio sempre à rua neste dia para me poder deleitar, que mais poderia eu fazer, o deleite acaba por ser algo obrigatório. No dia da passagem de ano não se vê viv’alma sem um portentoso sorriso de orelha a orelha, confesso que o acho excessivo afinal de contas é só mais uma volta ao sol que se assinala. Mas neste dia a nossa vocação para a festa é irreprimível, somos como que levados numa onda de euforia que contagia todos até os mais pacatos e taciturnos.
 

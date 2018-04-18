@@ -3,6 +3,7 @@ layout: post
 title:  "Virtuoso do ócio"
 date:   2018-03-10 18:35:00 +0100
 categories: jekyll update
+share: true
 ---
 Nos dias em que me sinto mais afoito apetece-me sentar prostrado diante de um qualquer ecrã, ver um filme suficientemente americano, comer umas pipocas e não usar mais nada a ser um pijama velho e amarrotado. Diga ?! Pense mais alto, só consigo escutar sussurros indecifráveis do seu pensamento  a reprovar a minha atitude. Imagino que seja algo como: “porque não fazes antes algo de produtivo”, “é isso que chamas criação de valor?” , ou até “a autonomia patrimonial e financeira deste indivíduo encontra-se em elevado risco de depreciação e desvalorização possivelmente conducente a um estado de insolvência dolosa”.
 

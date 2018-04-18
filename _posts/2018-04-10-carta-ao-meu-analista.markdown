@@ -3,8 +3,7 @@ layout: post
 title:  "Carta ao meu analista"
 date:   2018-04-10 18:35:00 +0100
 categories: Psicologia Psicanálise
-image:
-  path: /images/sigmund-freud.jpg
+image: /images/sigmund-freud.jpg
 share: true
 author:
   name: Tiago Gonçalves

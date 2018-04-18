@@ -1,6 +1,7 @@
 ---
 
 title:  "Carta ao meu analista"
+image: /images/sigmund-freud.jpg
 date:   2018-04-10 18:35:00 +0100
 categories: Psicologia Psicanálise
 share: true
@@ -11,7 +12,7 @@ author:
 
 ---
 
-![freud](/images/sigmund-freud.jpg)
+
 
 Caro colega
 

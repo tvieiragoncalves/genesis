@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Portugal quem és tu ?"
+image: /images/paineis.jpg
 date:   2018-01-10 18:35:00 +0100
 categories: País Portugal
 share: true

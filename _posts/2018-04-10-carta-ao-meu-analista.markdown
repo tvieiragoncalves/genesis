@@ -11,7 +11,8 @@ author:
 
 ---
 
-<img src="/images/sigmund-freud.jpg" class="align-left" alt="">
+![center-aligned-image](/images/sigmund-freud.jpg)
+
 Caro colega
 
 Só me aborrece saber que, uma tessitura de realidade, uma esfera opaca, uma pátria do pensamento me estreitam a visão.

@@ -2,8 +2,12 @@
 layout: post
 title:  "Carta ao meu analista"
 date:   2018-04-10 18:35:00 +0100
-categories: jekyll update
+categories: Psicologia Psicanálise
 share: true
+author:
+  name: Tiago Gonçalves
+  picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
+  twitter: tiago_1989
 ---
 Caro colega
 

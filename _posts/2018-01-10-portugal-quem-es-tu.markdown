@@ -9,6 +9,8 @@ author:
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
   twitter: tiago_1989
 ---
+![center-aligned-image](/images/paineis.jpg)
+
 Há uns dois anos decorreu uma iniciativa chamada “Portugal, quem és tu ?” que colocava a debate o país na sua identidade e génese. Recordando esta iniciativa e a pergunta que lhe confere o título surgiu-me a ideia de pensar sobre este tema.
 
 Muitas figuras se dedicaram a fazer uma profunda reflexão sobre o tema, apenas para citar algumas sublinho: José Mattoso, José Hermano Saraiva, e Miguel Esteves Cardoso. Julgo que com nomes destes a constarem no catálogo das personalidades que se dedicaram à diagnose do nosso país, a minha reflexão será sempre incipiente, contudo não me abstenho de a fazer, salvaguardando o meu diletantismo nestes temas e a amplitude temática que pressupõe a pergunta. Avancemos portanto com a certeza do insucesso, mas a segurança da tentativa.

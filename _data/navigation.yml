@@ -1,8 +1,12 @@
+# Site navigation links
+
 - title: Posts
-  url: /_posts/
+  url: /posts/
 - title: Categories
   url: /categories/
-- title: Sobre mim
-  url: https://whatever-site.com/page.html
+- title: Tags
+  url: /tags/
+- title: Recipes
+  url: /recipes/
 - title: Search
-  url: /search/
+url: /search/

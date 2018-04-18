@@ -6,7 +6,7 @@ categories: genesis início
 share: true
 author:
 
-  picture: /images/john-doe.jpg
+  picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
   twitter: tiago_1989
 ---
 Tudo é criação!

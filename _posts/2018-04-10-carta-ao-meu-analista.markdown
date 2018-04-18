@@ -11,7 +11,7 @@ author:
 
 ---
 
-![center-aligned-image](/images/sigmund-freud.jpg)
+![freud](/images/sigmund-freud.jpg)
 
 Caro colega
 

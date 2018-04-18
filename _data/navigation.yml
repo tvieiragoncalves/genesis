@@ -1,7 +1,7 @@
 - title: Posts
   url: /_posts/
 - title: Categories
-  url: /categories/
+  url: /_include/categories.md
 - title: External Page
   url: https://whatever-site.com/page.html
 - title: Search

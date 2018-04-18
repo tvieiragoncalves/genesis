@@ -9,7 +9,10 @@ author:
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
   twitter: tiago_1989
 ---
-![Narciso](../images/Narciso.png)
+<p align="center">
+  <img width="460" height="300" src="/images/Narciso.png">
+</p>
+
 
 O título é bastante sugestivo bem sei, parece daqueles ensaios filosóficos que levaram o autor à loucura, quem sabe até a abraçar cavalos. Nota filosófica: Frederich Nietzche,  filósofo alemão, é protagonista de um episódio célebre denominado o cavalo de turim em que decide dar afecto a um equídeo italiano, se calhar como gratidão por este contribuir para a fertilização do solo italiano. Diz-se que esse episódio terá sido eventualmente o ultimo momento lúcido de Nietzche antes de se afundar numa demência que lhe terá roubado a sanidade, como aliás é habitual nas demências.
 

@@ -4,6 +4,10 @@ title:  "Portugal quem és tu ?"
 date:   2018-01-10 18:35:00 +0100
 categories: jekyll update
 share: true
+author:
+  name: Tiago Gonçalves
+  picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
+  twitter: tiago_1989
 ---
 Há uns dois anos decorreu uma iniciativa chamada “Portugal, quem és tu ?” que colocava a debate o país na sua identidade e génese. Recordando esta iniciativa e a pergunta que lhe confere o título surgiu-me a ideia de pensar sobre este tema.
 

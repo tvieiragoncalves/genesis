@@ -5,7 +5,7 @@ date:   2017-11-01 18:35:00 +0100
 categories: genesis início
 share: true
 author:
-  name: Tiago Gonçalves
+
   picture: /images/john-doe.jpg
   twitter: tiago_1989
 ---

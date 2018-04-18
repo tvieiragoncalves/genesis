@@ -11,7 +11,7 @@ author:
 ---
 
 <p align="center">
-  <img width="460" height="300" src="/images/Narciso.png">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Michelangelo_Caravaggio_065.jpg/800px-Michelangelo_Caravaggio_065.jpg">
 </p>
 
 

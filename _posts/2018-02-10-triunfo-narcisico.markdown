@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Triunfo Narcísico"
+image: /images/paineis.jpg
 date:   2018-02-10 18:35:00 +0100
 categories: Sociedade
 share: true

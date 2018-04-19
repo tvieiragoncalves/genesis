@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title:  "Triunfo Narcísico"
 date:   2018-02-10 18:35:00 +0100
 categories: Sociedade
@@ -7,7 +7,10 @@ share: true
 author:
   name: Tiago Gonçalves
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
-  twitter: tiago_1989
+  links:
+    - title: twitter
+      url: https://twitter.com/tiago_1989
+      icon: fab fa-twitter-square
 ---
 
 <p align="center">

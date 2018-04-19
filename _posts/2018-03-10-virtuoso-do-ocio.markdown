@@ -7,7 +7,10 @@ share: true
 author:
   name: Tiago Gonçalves
   picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
-  twitter: tiago_1989
+  links:
+    - title: twitter
+      url: https://twitter.com/tiago_1989
+      icon: fab fa-twitter-square
 ---
 Nos dias em que me sinto mais afoito apetece-me sentar prostrado diante de um qualquer ecrã, ver um filme suficientemente americano, comer umas pipocas e não usar mais nada a ser um pijama velho e amarrotado. Diga ?! Pense mais alto, só consigo escutar sussurros indecifráveis do seu pensamento  a reprovar a minha atitude. Imagino que seja algo como: “porque não fazes antes algo de produtivo”, “é isso que chamas criação de valor?” , ou até “a autonomia patrimonial e financeira deste indivíduo encontra-se em elevado risco de depreciação e desvalorização possivelmente conducente a um estado de insolvência dolosa”.
 

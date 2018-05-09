@@ -23,6 +23,6 @@ Na idade adulta, após anos deste processo de transformação granítico ficamos
 Apesar do tom justificativo, não pretendo pedir desculpa em nome dos homens. Pretendo sim que este texto seja laudatório das diferenças e semelhanças entre nós e as mulheres. Que percebam que por vezes também temos medo de baratas e que também gostamos de anatomia de grey. Ao mesmo tempo, achamos de facto hilariante um flato de um amigo ou a observação do seu bolo alimentar antes da deglutição definitiva. Até Shakespeare, titular de uma obra invejável, devia rir à gargalhada quando por debaixo das calças acolchoadas os seus amigos soltavam um flato comprometedor. Apesar disso ,e se calhar, permitam o devaneio, até por isso construiu a sua obra.
 
 Deixo-vos com um trecho do filme Good Will Hunting no qual Matt Damon (Will) personifica bem esta noção que nos caracteriza tantas vezes, o bom tipo de rebelde, a sensibilidade caótica que se vai aprendendo a domar. Neste trecho através da relação com o seu psicólogo Robbin Williams, Matt Damon vai descobrindo cada vez mais acerca desta sensibilidade.
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/oRG2jlQWCsY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
 
 ---

@@ -1,6 +1,6 @@
 ---
 
-title:  "Os homens não choram e "Good Will Hunting""
+title:  "Os homens não choram e Good Will Hunting"
 date:   2018-05-08 17:35:00 +0100
 categories: Homens
 share: true

@@ -23,6 +23,6 @@ Eu estou sozinho, mas não quero chegar à idade dos maduros e dizer "sou sozinh
 
 O tempo piedoso dirá, o tempo em que me amarro nesse pano para que possa de novo ser desembrulhado como se de um presente me tratasse. Para ser redescoberto, para surpreender e premiar.
 
-<center> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mTyaEaFzL9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTyaEaFzL9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---

@@ -24,6 +24,4 @@ Não se lhe conhece a face oculta ou as lembranças pesadas, tão pesadas como o
 -Talvez se arrefecesse as palavras, se as comprimisse e as tocasse.
 Talvez aí fosse possível transmitir o que me contaram...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mTyaEaFzL9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ---

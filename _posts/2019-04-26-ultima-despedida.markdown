@@ -1,6 +1,6 @@
 ---
 
-title:  "Os segredos proibídos"
+title:  "Os segredos proibidos"
 date:   2019-04-26 17:35:00 +0100
 categories: Proibições
 share: true

@@ -1,6 +1,6 @@
 ---
 
-title:  "Quem me dera ter a tua idade e saber o que sei hoje ?"
+title:  "Quem me dera ter a tua idade e saber o que sei hoje "
 date:   2019-09-28 17:35:00 +0100
 categories: Infância
 share: true

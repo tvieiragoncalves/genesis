@@ -18,10 +18,10 @@ Quererão instigar-me a apressar a minha perda da inocência. Será que estão a
 
  Se eu pudesse escolher, eu não sei se trocava o que sei hoje pelo que sabia.
 
-O que sabia na altura é que gostava de jogar à bola,  de estar com os meus amigos a representar personagens do dragon ball ou então a fazer cabanas. Pode parecer pouco mas já sabia muita coisa. Por exemplo já sabia que podia contar com os meus pais e os meus irmãos para me protegerem. Sabia também que de vez em quando as crianças são cruéis , mas ainda assim tinha os meus refúgios para resguardar. Adorava os desenhos animados e o meu cão jack que me fazia sempre companhia na varanda de minha casa enquanto esperava ansiosamente a chegada dos meus pais, depois de uma tarde de ausência em que ficava com o meu avô.
+O que sabia na altura é que gostava de jogar à bola,  de estar com os meus amigos a representar personagens do dragon ball ou então a fazer cabanas. Pode parecer pouco mas já sabia muita coisa. Por exemplo já sabia que podia contar com os meus pais e os meus irmãos para me protegerem. Sabia também que de vez em quando as crianças são cruéis , mas ainda assim tinha os meus refúgios para me resguardar. Adorava os desenhos animados e o meu cão jack que me fazia sempre companhia na varanda de minha casa enquanto esperava ansiosamente a chegada dos meus pais, depois de uma tarde de ausência em que ficava com o meu avô.
 
 
-Hoje talvez saiba um pouco mais de outras coisas , acredito que aprendi muito sobre Piaget e Saramago, mas não me posso esquecer que já soube muito. Quem sabe até talvez já tenha existido um momento na minha vida em que sabia muito mais do que sei hoje , se calhar devia visitar esse momento como se de um altar se tratasse. Deveria honrar esse lugar e ter o cuidado de o preservar.  Não sou religioso é certo, mas pode ser que o ritual se torne um hábito e que esse ritual me legue algo que eu já tive. Pode estar só escondido.
+Hoje talvez saiba um pouco mais de outras coisas , acredito que aprendi muito sobre Piaget e Saramago, mas não me posso esquecer que já soube muito. Quem sabe até talvez já tenha existido um momento na minha vida em que sabia muito mais do que sei hoje , se calhar devia visitar esse momento como se da visita a um altar se tratasse. Deveria honrar esse lugar e ter o cuidado de o preservar.  Não sou religioso é certo, mas pode ser que o ritual se torne um hábito e que esse ritual me legue algo que eu já tive. Algo pode estar só escondido, encoberto pela neblina do ceticismo e desesperança.
 
 
 

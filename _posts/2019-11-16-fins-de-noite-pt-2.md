@@ -5,11 +5,11 @@ date:   2019-11-17 13:35:00 +0100
 categories: Noite história do passado
 share: true
 author:
-  name: Tiago Gonçalves
-  picture: /images/8821_1290189535233_1245080252_30885102_1208648_n_400x400.jpg
+  name: Carlos Figueiroa
+  picture: https://pbs.twimg.com/profile_images/1194717410315689985/5qHkOYtr_400x400.jpg
   links:
     - title: twitter
-      url: https://twitter.com/tiago_1989
+      url: https://twitter.com/carlosfigueiroa
       icon: fab fa-twitter-square
 
 ---

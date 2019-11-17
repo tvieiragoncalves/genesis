@@ -41,4 +41,4 @@ A conversa flui sem que se apercebam que a noite se faz manhã. Conversaram dura
 
 
 Na aurora do dia, em passo suave até à porta de casa de Paty, surge a pergunta:
-- Queres subir ?
+> Queres subir ?

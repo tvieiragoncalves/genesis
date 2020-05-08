@@ -31,8 +31,5 @@ Quero o afago das minhas memórias ternas nesse momento, os sorrisos e até as l
 
 EXEUNT OMNES
 
-<p align="center">
-  <img width="460" height="300" src="/images/verme.png">
-</p>
 
 ---

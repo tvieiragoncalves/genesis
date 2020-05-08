@@ -1,7 +1,7 @@
 ---
 
 title:  "Exeunt omnes "
-image: /images/lap.jpg
+image: /images/verme.jpg
 date:   2020-05-08 00:35:00 +0100
 categories: Saída
 share: true

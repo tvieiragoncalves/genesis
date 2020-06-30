@@ -2,7 +2,7 @@
 
 title:  "Motivação e emoção - A história da astúcia judaica"
 date:   2020-06-30 17:35:00 +0100
-categories: Contos
+categories: Contos motivação emoção
 share: true
 author:
   name: Tiago Gonçalves

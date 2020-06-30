@@ -1,7 +1,7 @@
 ---
 
 title:  "Motivação e emoção - A história da astúcia judaica"
-date:   2020-06-30 12:35:00 +0100
+date:   2020-06-30 17:35:00 +0100
 categories: Contos
 share: true
 author:

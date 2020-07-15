@@ -33,4 +33,4 @@ Ironicamente, silencia-se a mente com o ruído dos sentidos.
 No entanto o silêncio pode ser mais do que uma mera ausência de som,  o silêncio pode ser um convite, talvez um convite à reflexão.
 
 O tempo tem-me ensinado a ser um apreciador de silêncios, a depurar o bom silêncio. Quando respiro e me inibo de exprimir de forma reactiva pareço ganhar tempo, sintonizo-me no presente e sinto a pulsação do momento.
-Mentalmente é como se estivesse deitado na relva a olhar o céu sendo o que sempre sonhei um pastor de nuvens e de sonhos.
+Mentalmente é como se estivesse deitado na relva a olhar o céu sendo o que sempre sonhei, um pastor de nuvens e de sonhos.

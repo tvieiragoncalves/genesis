@@ -21,7 +21,7 @@ Nas celebrações religiosas, o silêncio monumental que nos esmaga diante a imp
 
 Na natureza , o silêncio das rochas que nunca ousaram falar.
 
-Na socialização connosco mesmos o silêncio da hesitação, crepitante e ansioso.
+Na convívio connosco mesmos o silêncio da hesitação, crepitante e ansioso.
 
 Com os outros, o silêncio compassivo que se apoia na escuta. Por vezes, o silêncio contemplativo que cria narrativas mentais e ainda, aquele silêncio que termina com urgência de quem não se compadece dele.
 

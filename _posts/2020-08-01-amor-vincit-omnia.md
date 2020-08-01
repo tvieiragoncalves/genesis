@@ -2,7 +2,7 @@
 
 title:  "Amor Vincit Omnia"
 date:   2020-08-01 00:00:00 +0100
-categories: Silêncio
+categories: Amor Vincit Omnia
 share: true
 author:
   name: Tiago Gonçalves

@@ -1,0 +1,42 @@
+---
+label: Post_With_Image
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: boolean
+  name: share
+  label: share
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: picture
+    label: picture
+  - type: field_group_list
+    name: links
+    label: links
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: url
+      label: url
+    - type: text
+      name: icon
+      label: icon

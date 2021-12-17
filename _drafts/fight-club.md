@@ -1,8 +1,8 @@
 ---
 title: 'Fight Club '
 image: "/uploads/10297513_20160909-152925.jpeg"
-date: 
-categories: ''
+date: 2021-12-17 00:00:00 +0000
+categories: filmes, cinema, existencialismo, significado
 share: true
 author:
   name: ''

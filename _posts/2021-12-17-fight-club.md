@@ -8,7 +8,7 @@ author:
   name: Tiago Gonçalves
   picture: ''
   links:
-  - title: Twiter
+  - title: Twitter
     url: https://twitter.com/tiago_1989
     icon: ''
 

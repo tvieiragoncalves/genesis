@@ -3,7 +3,7 @@ title: 'Fight Club '
 image: "/uploads/10297513_20160909-152925.jpeg"
 date: 
 categories: ''
-share: false
+share: true
 author:
   name: ''
   picture: ''

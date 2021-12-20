@@ -21,6 +21,6 @@ Este processo em que despertamos de um sonambulismo quase comatoso, sem signific
 
 "self-improvement is masturbation, now self-destruction.."
 
-> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning
+> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
-> ![TiaLightning address Tiago](/uploads/download-2.png "Lightning address")
+> [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

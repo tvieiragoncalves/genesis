@@ -24,3 +24,5 @@ Este processo em que despertamos de um sonambulismo quase comatoso, sem signific
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")
+>
+> <p align="center"> <img width="460" height="300" src="./uploads/download-2.png"> </p>

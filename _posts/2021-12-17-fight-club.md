@@ -25,4 +25,4 @@ Este processo em que despertamos de um sonambulismo quase comatoso, sem signific
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")
 >
-> ![](https://i.imgur.com/Cmqs98o.png)
+> ![](https://i.imgur.com/v8i5Xd3.png)

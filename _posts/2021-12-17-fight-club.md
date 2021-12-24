@@ -6,7 +6,7 @@ categories: filmes cinema existencialismo significado
 share: true
 author:
   name: Tiago Gonçalves
-  picture: ''
+  picture: "/uploads/memed-io-output-2.jpeg"
   links:
   - title: Twitter
     url: https://twitter.com/tiago_1989

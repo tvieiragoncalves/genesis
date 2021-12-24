@@ -1,5 +1,5 @@
 ---
-title: O novo normal.
+title: O Novo Normal
 image: "/uploads/hannah-arendt-620x264.jpeg"
 date: 2021-12-24 00:00:00 +0000
 categories: pandemia covid19

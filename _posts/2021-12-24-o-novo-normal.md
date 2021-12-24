@@ -27,6 +27,8 @@ Nos dias que correm ter uma posição dissonante confere direitos limitados de p
 
 A nossa saída da crise pandémica passará sempre pelo debate e pelo diálogo e não pelo globalismo autoritário. A crise terminará quando usarmos do dever de questionar, de não pactuar com sucessivos abusos à liberdade individual, quando aceitarmos que corremos riscos mas que não dependemos de nenhuma autoridade moral para nos prescrever uma realidade à medida das nossas inseguranças e por outro lado quando conseguirmos refundar a ciência para que esta volte a ser o palco do debate de ideias e que seja mais do que um trabalho, uma vocação.
 
+![](https://i.imgur.com/uyOhzzZ.png)
+
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

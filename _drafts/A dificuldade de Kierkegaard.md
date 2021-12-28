@@ -1,9 +1,9 @@
 ---
-title: ''
-image: ''
-date: 
-categories: ''
-share: false
+title: A dificuldade de Kierkegaard
+image: "/uploads/k.png"
+date: 2021-12-28 00:00:00 +0000
+categories: existencialismo dificuldade psicologia filosofia
+share: true
 author:
   name: ''
   picture: ''

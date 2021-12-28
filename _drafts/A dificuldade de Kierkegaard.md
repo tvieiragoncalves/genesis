@@ -19,3 +19,11 @@ As montanhas não são escaladas pelo intenso prazer físico que é escalar-se u
 Por isso defendo a dificuldade como parteira da história de cada um, como janela de oportunidade para aguçar o engenho e afinar a nossa maquinaria mental. Na dificuldade nascem soluções para a vida e formas audazes de construir e criar significado.
 
 Espero que um dia possamos voltar a escrever cartas precisamente porque é mais difícil e leva mais tempo, espero que possamos voltar a ler também porque é difícil encontrar o tempo e a paciência, e espero que possamos aceitar desafios à nossa inteligência especialmente por serem difíceis.
+
+![Soren Kierkegaard quote: When all combine in every way to make everything  easier...](https://www.azquotes.com/picture-quotes/quote-when-all-combine-in-every-way-to-make-everything-easier-people-will-want-difficulty-soren-kierkegaard-104-75-27.jpg)
+
+> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
+>
+> [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")
+>
+> ![](https://i.imgur.com/v8i5Xd3.png)

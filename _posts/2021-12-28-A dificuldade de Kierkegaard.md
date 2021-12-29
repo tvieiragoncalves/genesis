@@ -5,9 +5,12 @@ date: 2021-12-28 00:00:00 +0000
 categories: existencialismo dificuldade psicologia filosofia
 share: true
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - title: Twiter
+    url: https://twitter.com/tiago_1989
+    icon: Twitter
 
 ---
 O filósofo dinamarquês Søren Kierkegaard diz-nos numa passagem da sua obra que o Homem tudo fez para tornar a sua vida mais fácil. Construiu caminhos de ferro, autocarros, barcos, o telégrafo e muitas outras invenções que tornaram a nossa existência neste planeta mais fácil. Em desespero e envergonhado por não conseguir tornar algo mais fácil do que já é, Kierkegaard descobre o seu lema. A sua missão seria então tornar as coisas mais difíceis, encontrar dificuldades em toda a parte. Porque teria este desígnio o filósofo ?

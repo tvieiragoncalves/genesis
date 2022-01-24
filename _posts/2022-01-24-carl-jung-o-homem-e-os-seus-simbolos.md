@@ -7,7 +7,7 @@ categories: carl jung psicodinâmica psicanálise psicoterapia psicologia arqué
 share: true
 author:
   name: Tiago Gonçalves
-  picture: "/uploads/memed-io-output-2.jpeg"
+  picture: "/uploads/img_0129.png"
   links:
   - title: Twiter
     url: https://twitter.com/tiago_1989

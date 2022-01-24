@@ -14,7 +14,7 @@ author:
     icon: ''
 
 ---
-Segundo Carl Jung, psiquiatra Suiço, o ser humano transporta consigo uma espécie de mitologia de espécie, aquilo a que Jung chama de arquétipos. Este conceito diz respeito ás imagens primárias e instintivas que são universais na espécie humana.
+Segundo Carl Jung, psiquiatra Suiço, o ser humano transporta consigo um tipo de mitologia de espécie, aquilo a que Jung chama de arquétipos. Este conceito diz respeito ás imagens primárias e instintivas que são universais na espécie humana.
 
 Podemos considerar usando a linguagem dos arquétipos que existem motivações básicas para o desenvolvimento de símbolos primordiais que têm em si próprios informação sobre nós mesmos e o mundo que nos rodeia. A criação destes arquétipos crê-se, tem como propósito influenciar o comportamento através de histórias e imagens penetrantes do ponto de vista emocional.
 

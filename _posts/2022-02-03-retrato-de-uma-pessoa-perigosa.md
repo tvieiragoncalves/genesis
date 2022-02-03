@@ -1,6 +1,6 @@
 ---
 title: Retrato de uma pessoa perigosa.
-image: "/uploads/download-4.png"
+image: "/uploads/1090815_1_1007-snowden-record_standard.jpeg"
 date: 2022-02-03 00:00:00 +0000
 categories: perigo autoritarismo sentido crítico
 share: true

@@ -1,6 +1,6 @@
 ---
 title: Retrato de uma pessoa perigosa.
-image: ''
+image: "/uploads/download-4.png"
 date: 2022-02-03 00:00:00 +0000
 categories: ''
 share: true

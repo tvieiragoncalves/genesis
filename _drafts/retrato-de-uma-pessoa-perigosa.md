@@ -2,7 +2,7 @@
 title: Retrato de uma pessoa perigosa.
 image: "/uploads/download-4.png"
 date: 2022-02-03 00:00:00 +0000
-categories: ''
+categories: perigo autoritarismo sentido crítico
 share: true
 author:
   name: Tiago Gonçalves
@@ -26,6 +26,8 @@ Nos primeiros podemos estimar a sua perigosidade de forma transversal a culturas
 Os segundos têm uma definição bastante mais complexa dado o maior relativismo cultural da definição. Por vezes, estes são os sujeitos que usam da arma do questionamento como ferramenta de interpretação do mundo. Uma arma que não é bem-vinda, é muitas vezes censurada, particularmente em regimes autoritários repressivos. Esta censura passa pelo silenciamento do questionamento através da pressão social para a conformidade com as normas vigentes, pela proibição da palavra ou, em último caso pelo uso da força. Assim, as instituições sociais, identificam e rotulam o sujeito perigoso para que este seja tratado como tal. Um ser parisitário que prejudica o hospedeiro (estado/comunidade).
 
 Importa fazer estas distinções para que não sejamos levados a atribuições erradas e estimativas desfasadas do verdadeiro grau ameaça e de onde está a ameaça. Facilmente usamos os nossos filtros perceptivos de forma pouco consciente e podemos ser influenciados no nosso comportamento face ao outro. Para depurar a realidade e fazer sentido do que se passa à nossa volta precisamos de curiosidade e espírito crítico, essas ferramentas podem ajudar-nos a conhecermo-nos melhor a nós mesmos e, por conseguinte, conhecer melhor o outro.
+
+![](https://i.imgur.com/jqASp3X.png)
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >

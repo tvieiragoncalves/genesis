@@ -1,7 +1,7 @@
 ---
 title: Ideologia política e saúde mental
 image: "/uploads/download-6.png"
-date: 2022-02-21 00:00:00 +0000
+date: 2022-02-20 00:00:00 +0000
 categories: ''
 share: true
 author:

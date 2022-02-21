@@ -13,7 +13,7 @@ author:
     icon: ''
 
 ---
-Frequentemente vejo nos media mensagens propaladas por “especialistas” defendendo ideologia política escudando-se numa linguagem técnica que torna quase imperceptível este subtil endosso político.
+Frequentemente vejo nos media mensagens propaladas por “especialistas” defendendo ideologia política escudando-se numa linguagem técnica que torna quase imperceptível o subtil endosso político.
 
 Vejamos por exemplo aquilo que se faz na promoção da igualdade e inclusão. Não raras vezes vejo mensagens de Psicólogos & Psiquiatras, entre outros especialistas, que se alinham muitas vezes com uma política divisionária seguindo uma linha de pensamento político que define um grupo oprimido e um opressor. Seguindo esta linha de raciocínio vejo serem criados conceptualmente grupos homogéneos cuja matriz depende de uma característica (género, etnia, orientação sexual) qualificando-os nesta divisão dicotómica oprimido vs opressor, por oposição a uma análise circunstanciada de cada situação. Seguindo este exemplo vemos frequentemente a defesa de conceitos como igualdade de género ou violência de género, ambos pressupondo um grupo opressor e oprimido com base nos géneros.
 

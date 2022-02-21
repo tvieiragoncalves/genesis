@@ -25,7 +25,7 @@ A criação de um regime autoritário com a sombra da ideia de igualdade e bem c
 
 Talvez seja tempo para voltarmos à ideia de pessoa e de voltar a analisar de forma circunstanciada os problemas com que nos deparamos atualmente. O respeito e a tolerância pela diversidade de opiniões devem guiar o nosso raciocínio para que possamos alcançar paz e harmonia social. Isto não quer dizer que não existam pontos de vista medievais que pisam linhas vermelhas, no entanto a melhor arma para os combater passará pela informação e pela pedagogia. De outra forma, estaremos a transformar os grupos oprimidos em opressores e possivelmente a perder de vista a identidade individual de cada pessoa.
 
-![](/uploads/quote-the-individual-has-always-to-struggle-to-keep-from-being-overwhelmed-by-the-tribe-friedrich-nietzsche-70-8-0804.jpeg)
+![Nietzche](/uploads/quote-the-individual-has-always-to-struggle-to-keep-from-being-overwhelmed-by-the-tribe-friedrich-nietzsche-70-8-0804.jpeg "Nietzche")
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >

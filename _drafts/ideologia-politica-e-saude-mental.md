@@ -24,3 +24,5 @@ Não descurando da nossa análise a ideia de que existem desigualdades factuais 
 A criação de um regime autoritário com a sombra da ideia de igualdade e bem comum , onde a ideia e identidade do coletivo (grupo) se sobrepõe á ideia de indivíduo (pessoa). Se lermos a história sabemos que este princípio nos conduziu a períodos muito sombrios para a humanidade.
 
 Talvez seja tempo para voltarmos à ideia de pessoa e de voltar a analisar de forma circunstanciada os problemas com que nos deparamos atualmente. O respeito e a tolerância pela diversidade de opiniões devem guiar o nosso raciocínio para que possamos alcançar paz e harmonia social. Isto não quer dizer que não existam pontos de vista medievais que pisam linhas vermelhas, no entanto a melhor arma para os combater passará pela informação e pela pedagogia. De outra forma, estaremos a transformar os grupos oprimidos em opressores e possivelmente a perder de vista a identidade individual de cada pessoa.
+
+![](/uploads/quote-the-individual-has-always-to-struggle-to-keep-from-being-overwhelmed-by-the-tribe-friedrich-nietzsche-70-8-0804.jpeg)

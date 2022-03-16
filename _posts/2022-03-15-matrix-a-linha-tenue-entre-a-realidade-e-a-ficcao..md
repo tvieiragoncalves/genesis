@@ -25,7 +25,7 @@ O quadrado de Kanizsa mostra-nos como uma figura geométrica se destaca na nossa
 
 ![Fussli Nightmare](https://blog.artsper.com/wp-content/uploads/2021/01/John_Henry_Fuseli_-_The_Nightmare-1-644x522.jpg)
 
-O pesadelo de Johann Heinrich Füssli retrata a odalisca no seu sono e os seus tormentos do espírito adormecido. Os sonhos são também eles uma fonte generativa de realidade e de criatividade natural, subvertendo muitos axiomas perceptivos . Funcionam como oráculos probabilísticos, despertadores existenciais para as crises que vivenciamos e ainda como linguagem primordial do inconsciente, demonstrando de forma iconográfica e simbólica de realidade.
+O pesadelo de Johann Heinrich Füssli retrata a odalisca no seu sono e os seus tormentos do espírito adormecido. Os sonhos são também eles uma fonte generativa de realidade e de criatividade natural, subvertendo muitos axiomas perceptivos . Funcionam como oráculos probabilísticos, despertadores existenciais para as crises que vivenciamos e ainda como linguagem primordial do inconsciente, demonstrando de forma iconográfica e simbólica a realidade.
 
 Consideremos também o exemplo da intuição que surge como uma forma de pré-cognição, ou seja, um fenómeno perceptivo que vai beber à informação inconsciente para construir uma ideia de realidade. Este fenómeno pode ou não estar mais desperto em nós, consoante somos observadores e mestres da técnica da intuição.
 

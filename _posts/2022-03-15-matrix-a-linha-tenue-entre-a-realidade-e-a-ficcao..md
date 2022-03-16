@@ -33,7 +33,7 @@ Consideremos também o exemplo da intuição que surge como uma forma de pré-co
 
 Salvator Mundi retrata Jesus Cristo com a esfera celestial numa mão e realizando o sinal da cruz com a outra, o quadro é atribuído a Leonardo Da Vinci. A religião e os seus mitos, retratados na arte e na tradição oral & escrita são também elementos que nos remetem para expressões de uma realidade não material. Esta mitologia religiosa é plana em significados ocultos, alegorias ancestrais e metáforas sendo estes elementos traduções de símbolos naturais e de uma inata busca de significado não material.
 
-Olhando para estas expressões de realidade podemos encontrar linguagens e níveis de resolução diversos, compete-nos a nós como intérpretes privilegiados usar da nossa inteligência e intuição e sensibilidade para reconhecer e chamar a nós a responsabilidade pela construção atendendo ás várias dimensões, descontinuidades perceptivas e sempre duvidando do retrato psíquico que fazemos.
+Olhando para estas expressões de realidade podemos encontrar linguagens e níveis de resolução diversos, compete-nos a nós como intérpretes privilegiados usar da nossa inteligência e intuição e sensibilidade para reconhecer e chamar a nós a responsabilidade pela construção atendendo ás várias dimensões, descontinuidades perceptivas e duvidando do retrato psíquico que fazemos.
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >

@@ -1,6 +1,6 @@
 ---
 title: 'A linha ténue entre a realidade e a ficção. '
-image: ''
+image: "/uploads/magritte-pipe.jpeg"
 date: 2022-03-15T00:00:00.000+00:00
 categories: realidade
 share: true

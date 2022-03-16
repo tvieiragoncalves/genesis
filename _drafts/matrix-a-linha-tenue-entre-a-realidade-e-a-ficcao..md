@@ -1,13 +1,16 @@
 ---
 title: 'A linha ténue entre a realidade e a ficção. '
 image: ''
-date: 
-categories: ''
-share: false
+date: 2022-03-15 00:00:00 +0000
+categories: realidade
+share: true
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - title: Twiter
+    url: https://twitter.com/tiago_1989
+    icon: ''
 
 ---
 A realidade tal como a conhecemos e concebemos parece por vezes um fenómeno que acontece, existe e manifesta a sua presença de forma independente do observador. Nesta linha argumentativa a realidade adere a uma corrente filosófica denominada de materialismo que tem na matéria o elemento formador da realidade e nos fenómenos materiais e físicos como uma espécie de linguagem da realidade.  Ouvimos, vemos, sentimos e cheiramos a realidade que, adotando uma perspectiva materialista, será parente próxima de uma verdade  que consideramos objetiva.

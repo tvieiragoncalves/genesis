@@ -1,6 +1,6 @@
 ---
 title: Sinalização da virtude e ser-se virtuoso.
-image: ''
+image: "/uploads/marcus-aurelius-700x300.webp"
 date: 2022-04-06 23:00:00 +0000
 categories: Virtude
 share: true

@@ -13,7 +13,7 @@ author:
     icon: ''
 
 ---
-O problema começa pela definição de virtude, o que é virtude ? Podemos considerar a definição commumente aceite que determina a virtude como uma forma de excelência moral, isto é, uma qualidade excepcional e essencialmente boa. Como seres sociais usamos várias ferramentas para comunicar socialmente os nossos valores, características e personalidade. Podemos dizer que usamos a virtude nesta instância como um sinal social que nos identifica geralmente com algo que é considerado moralmente positivo e bom.
+O problema começa pela definição de virtude, o que é virtude ? Podemos considerar a definição comumente aceite que determina a virtude como uma forma de excelência moral, isto é, uma qualidade excepcional e essencialmente boa. Como seres sociais usamos várias ferramentas para comunicar socialmente os nossos valores, características e personalidade. Podemos dizer que usamos a virtude nesta instância como um sinal social que nos identifica geralmente com algo que é considerado moralmente positivo e bom.
 
 Tomemos como exemplo a utilização que fazemos de signos/símbolos correntes de virtude. Atualmente não raras vezes vemos perfis de pessoas em redes sociais com mensagens políticas e ideológicas cuja base contempla uma forma de sinalização da virtude. Sendo consciente ou não esta atitude constitui em si mesma uma estratégia de auto apresentação que contempla a fabricação e repetição de símbolos de virtuosidade moral.
 

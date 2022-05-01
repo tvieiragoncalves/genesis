@@ -1,6 +1,6 @@
 ---
 title: Investigação da sombra
-image: "/uploads/maxresdefault.jpg"
+image: "/uploads/0pumgj.webp"
 date: 2022-04-30 23:00:00 +0000
 categories: Sombra
 share: true

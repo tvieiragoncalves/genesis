@@ -21,7 +21,7 @@ Uma das dificuldades em tornar a sombra consciente é a resistência em admitir 
 
 Uma outra forma de investigar a sombra é através do ato de dizer a verdade, sim dizer a verdade. Pode parecer simples mas acredito que há muito sobre nós que apenas contamos a um punhado de pessoas e muito mais que apenas nós mesmos sabemos e ainda uma quantidade razoável de coisas que nem ousamos admitir a nós mesmos. Nessa medida, dizer a verdade pode elucidar-nos sobre as dimensões que não conhecemos e integrá-las no todo consciente. Esta integração requer negociações e eventualmente uma reavaliação dos nossos valores, no entanto, é uma fonte importante de renovação e criação de autenticidade e integridade.
 
-Jung incentiva-nos a investigar a sombra para que esta não nos domine e se expresse de forma descontrolada e inconsciente. Como uma energia que existe de forma espontânea, a sombra precisa de ser controlada, interpretada e integrada para que possamos deixar de fragmentar e dissociar a nossa personalidade encarando-a como um todo.
+Jung incentiva-nos a investigar a sombra para que esta não nos domine e se expresse de forma descontrolada e inconsciente. Como uma energia que existe de forma espontânea, a sombra precisa de ser controlada, interpretada e integrada para que possamos deixar de fragmentar e dissociar a nossa personalidade encarando-a como parte de um todo.
 
 ![Carl Jung quote: To confront a person with their own shadow is to...](https://www.azquotes.com/picture-quotes/quote-to-confront-a-person-with-their-own-shadow-is-to-show-them-their-own-light-carl-jung-57-14-44.jpg)
 

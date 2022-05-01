@@ -1,13 +1,16 @@
 ---
 title: Investigação da sombra
-image: ''
+image: "/uploads/maxresdefault.jpg"
 date: 
-categories: ''
-share: false
+categories: Sombra
+share: true
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - url: https://twitter.com/tiago_1989
+    icon: ''
+    title: Twitter
 
 ---
 Carl Jung fala-nos do conceito de sombra como dimensão inalienável da personalidade, uma parte da nossa identidade que contempla o nosso poder de destruição. Segundo Jung quanto menos conscientes somos desta sombra maior é o seu poder destrutivo, ou seja, mais negra e densa se torna. Se um sentimento de inferioridade se torna consciente o indivíduo terá sempre oportunidades para corrigir esse sentimento, ao passo que se permanece no inconsciente pode perpetuar a sua influência e ampliar a sua intensidade. A sombra não integrada, ou seja não consciente, condena o Homem a repetir os erros do passado e perpetrar as atrocidades que caracterizam os atos mais sombrios de tirania.
@@ -18,4 +21,12 @@ Uma das dificuldades em tornar a sombra consciente é a resistência em admitir 
 
 Uma outra forma de investigar a sombra é através de dizer a verdade, sim dizer a verdade. Pode parecer simples mas acredito que há muito sobre nós que apenas contamos a um punhado de pessoas e muito mais que apenas nós mesmos sabemos e ainda uma quantidade razoável de coisas que nem ousamos admitir a nós mesmos. Nessa medida, dizer a verdade pode elucidar-nos sobre as dimensões que não conhecemos e integrá-las no todo consciente. Esta integração requer negociações e eventualmente uma reavaliação dos nossos valores, no entanto, é uma fonte importante de renovação e criação de autenticidade e integridade.
 
+Jung incentiva-nos a investigar a sombra para que esta não nos domine e se expresse de forma descontrolada e inconsciente. Como uma energia que existe de forma espontânea precisa de ser controlada e interpretada.
+
 ![Carl Jung quote: To confront a person with their own shadow is to...](https://www.azquotes.com/picture-quotes/quote-to-confront-a-person-with-their-own-shadow-is-to-show-them-their-own-light-carl-jung-57-14-44.jpg)
+
+> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
+>
+> [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")
+>
+> ![](https://i.imgur.com/v8i5Xd3.png)

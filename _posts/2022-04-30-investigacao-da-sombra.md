@@ -25,6 +25,12 @@ Jung incentiva-nos a investigar a sombra para que esta não nos domine e se expr
 
 ![Carl Jung quote: To confront a person with their own shadow is to...](https://www.azquotes.com/picture-quotes/quote-to-confront-a-person-with-their-own-shadow-is-to-show-them-their-own-light-carl-jung-57-14-44.jpg)
 
+    <!-- blank line -->
+    <figure class="video_container">
+      <iframe src="https://youtu.be/t_RNG74UovY" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
+    <!-- blank line -->
+
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

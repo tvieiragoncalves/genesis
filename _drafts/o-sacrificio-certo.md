@@ -25,6 +25,8 @@ Indo mais longe peguemos no exemplo de Jesus que se sujeita ao mais profundo sac
 
 Temos vários exemplos de como o sacrifício certo pode ser virtuoso. A nossa missão será então a de escolher qual será o nosso sacrifício, o que vamos entregar á vida para operar a nossa própria transformação.
 
+![The idea is that you could sacrifice something of value, and that would  have transcendent utility.](https://img.libquotes.com/pic-quotes/v2/jordan-peterson-quote-lbv8i7b.jpg)
+
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

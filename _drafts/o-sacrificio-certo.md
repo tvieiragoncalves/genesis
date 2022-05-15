@@ -1,6 +1,6 @@
 ---
 title: O sacrifício certo.
-image: ''
+image: "/uploads/cainabel-1024x400.webp"
 date: 2022-05-14 23:00:00 +0000
 categories: sacrifício
 share: true
@@ -10,9 +10,6 @@ author:
   links:
   - title: twitter
     url: https://twitter.com/tiago_1989
-    icon: ''
-  - title: ''
-    url: ''
     icon: ''
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dizer a verdade
-image: ''
+image: "/uploads/281576240_693546301906778_7090046383966296673_n.jpg"
 date: 2022-05-22 23:00:00 +0000
 categories: Verdade
 share: true
@@ -19,8 +19,4 @@ Como recuperar o rumo e viver com significado e pelo significado? Vivendo na ver
 
 Friedrich Nietzsche diz-nos que a força do espírito do indivíduo é medida pela quantidade de verdade que este está disposto a tolerar, mais concretamente em que grau a pessoa necessita que a verdade seja suavizada, silenciada, falsificada ou diluída. Seguindo a lógica do filósofo alemão, apenas dizendo a verdade teremos oportunidade de conhecer a verdadeira força do nosso espírito percebendo assim até onde vai a nossa tolerância.
 
-Devemos estar atentos à forma como a mentira se refugia em 
-
-A nível social a mentira está presente no culto do racionalismo como a unica fonte de verdade absoluta, desta forma a sociedade parece-se precipitar-se para a ignorância, julgando conhecer o todo fica cega em relação ao que não conhece. O racionalismo parece enamorado com a ideia de que tudo pode ser explicado de pelo prisma da objetividade lógica, de que nada escapa a este filtro de realidade. Assim, corremos o risco de sofisticar e cobrir com o pano da retórica as mentiras que vamos criando enquanto sociedade.
-
-George Orwell diz-nos que: " em tempos de dissimulação universal, dizer a verdade é um ato revolucionário. 
+Para melhor entendermos onde podemos estar a caminhar para o caos através da mentira devemos estar atentos aos subterfúgios que a mentira usa, nomeadamente as armadilhas intelectuais. A título de exemplo, a nível social a mentira está presente no culto do racionalismo como a unica fonte de verdade absoluta, desta forma a sociedade parece-se precipitar-se para a ignorância, julgando conhecer o todo fica cega em relação ao que não conhece. O racionalismo parece enamorado com a ideia de que tudo pode ser explicado de pelo prisma da objetividade lógica, de que nada escapa a este filtro de realidade. Assim, corremos o risco de sofisticar e cobrir com o pano da retórica as mentiras que vamos criando enquanto sociedade. Quanto maior e mais densa se torna a mentira maior será o desafio para retomar o caminho da verdade, daí que George Orwell nos diga que: " em tempos de dissimulação universal, dizer a verdade é um ato revolucionário. 

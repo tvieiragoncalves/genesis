@@ -5,9 +5,12 @@ date: 2022-06-10 23:00:00 +0000
 categories: amor
 share: true
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - title: twitter
+    url: https://twitter.com/tiago_1989
+    icon: ''
 
 ---
 Muitos livros foram escritos sobre o tema oferecendo perspetivas líricas, narrativas, psicológicas/filosóficas, religiosas, simbólicas e políticas. A resposta varia no seu significado consoante o paradigma teórico de análise. Reconhecendo esta multiplicidade de dimensões do conceito qualquer reflexão será sempre, inevitavelmente parcial, no entanto cumpre realizar-se dado que a importância do tema o exige. Muito se tem dito e muito mais se dirá precisamente porque este é um tema que convida à expressão de uma profunda intimidade universal.

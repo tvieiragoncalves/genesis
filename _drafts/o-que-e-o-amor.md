@@ -1,15 +1,17 @@
 ---
 title: O que é o amor ?
 image: ''
-date: 
-categories: ''
-share: false
+date: 2022-06-11 23:00:00 +0000
+categories: amor
+share: true
 author:
   name: ''
   picture: ''
   links: []
 
 ---
-Muitos livros foram escritos sobre o tema oferecendo perspetivas líricas, narrativas, psicológicas, religiosas, simbólicas e políticas. A resposta varia no seu significado consoante o paradigma teórico de análise. Reconhecendo esta multiplicidade de dimensões do conceito qualquer reflexão será sempre, inevitavelmente, parcial, no entanto cumpre realizar-se dado que a importância do tema o exige. Muito se tem dito e muito mais se irá dizer precisamente porque este é um tema que convida à expressão de uma profunda intimidade. 
+Muitos livros foram escritos sobre o tema oferecendo perspetivas líricas, narrativas, psicológicas/filosóficas, religiosas, simbólicas e políticas. A resposta varia no seu significado consoante o paradigma teórico de análise. Reconhecendo esta multiplicidade de dimensões do conceito qualquer reflexão será sempre, inevitavelmente, parcial, no entanto cumpre realizar-se dado que a importância do tema o exige. Muito se tem dito e muito mais se dirá precisamente porque este é um tema que convida à expressão de uma profunda intimidade universal.
 
-O amor é, segundo Erich Fromm psicanalista alemão, uma decisão, um julgamento e uma promessa, além de um sentimento. Segundo o autor o amor requer paciência, disciplina, concentração, fé e, quanto a mim uma ideia fundamental, a capacidade para transcender o nosso próximo narcisismo. 
+O amor é, segundo Erich Fromm psicanalista alemão, uma decisão, um julgamento e uma promessa, além de um sentimento. Segundo o autor o amor requer paciência, disciplina, concentração, fé e, quanto a mim uma ideia fundamental de Fromm, a capacidade para transcender o nosso próximo narcisismo. Como seriamos capazes de amar sem ultrapassar o nosso narcisismo? Seríamos capazes do compromisso necessário para aceitar o sacrifício de não corresponder aos nossos desejos mais imediatos em prol da construção de um projeto para o futuro com outra pessoa? No nosso narcisismo reside frequentemente o nosso movimento em direção á gratificação imediata e à não aceitação do sacrifício inerente à construção de algo que desejavelmente será maior que nós. Como nos diz um pergaminho da Psicologia Gestalt, corrente teórica que se dedica ao estudo da forma e da percepção, o todo é maior que a soma das partes. É precisamente neste ponto que está uma das principais forças centrípetas deste conceito, na hipótese de construir algo que melhora a nossa vida que acrescenta em significado, sendo esta a unidade base na qual se psicologicamente se medem as coisas e os fenómenos. Fromm propõe ainda que o amor não será apenas a ligação ao objeto amado, mas também uma orientação perante a vida, dizendo: " o amor é uma atitude, uma orientação de carácter que determina a ligação da pessoa ao mundo como um todo e não apenas a um objeto." Sendo assim não será suspeito que neste conceito esteja a chave para operar profundas transformações no carácter e na vida dos Humanos, que a somar á construção da relação com o outro têm a construção de uma nova relação com o mundo. 
+
+O amor é uma dádiva na qual ao darmos podemos experienciar a nossa riqueza de carácter, a nossa força  e o nosso poder. Podemos ver neste conceito uma pedagogia sobre a vida e sobre as relações sendo que 

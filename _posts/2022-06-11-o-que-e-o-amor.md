@@ -1,7 +1,7 @@
 ---
 title: O que é o amor ?
 image: "/uploads/sacredheartbatoni-1.jpeg"
-date: 2022-06-11 23:00:00 +0000
+date: 2022-06-10 23:00:00 +0000
 categories: amor
 share: true
 author:

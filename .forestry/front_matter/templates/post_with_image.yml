@@ -17,6 +17,16 @@ fields:
 - type: boolean
   name: share
   label: share
+- name: teste
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: TESTE
+  description: Escreve aqui
 - type: field_group
   name: author
   label: author

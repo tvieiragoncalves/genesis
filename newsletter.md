@@ -9,6 +9,5 @@ author:
   name: ''
   picture: ''
   links: []
-published: false
 
 ---

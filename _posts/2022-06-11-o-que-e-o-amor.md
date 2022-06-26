@@ -1,7 +1,7 @@
 ---
 title: O que é o amor ?
 image: "/uploads/sacredheartbatoni-1.jpeg"
-date: 2022-06-10 23:00:00 +0000
+date: 2022-06-10T23:00:00.000+00:00
 categories: amor
 share: true
 author:
@@ -21,6 +21,8 @@ O amor é, segundo Erich Fromm psicanalista alemão, uma decisão, um julgamento
 O amor é uma dádiva na qual ao darmos podemos experienciar a nossa riqueza de carácter, a nossa força  e o nosso poder. Podemos ver este conceito como um professor que nos ensina sobre a vida e sobre as relações. Ensina-nos humildade na medida em que aceitamos algo maior que nós, ensina disciplina porque requer um foco constante e diria até que nos pode ensinar o significado  e peso do conceito de fé. Neste último ponto falo de fé porque o amor contempla a dúvida fundamental da rejeição do sacrifício feito em prol do amor, e a fé transcende essa dificuldade da dúvida. A fé parece salvar-nos da corrosão da dúvida e purificar as intenções da pessoa que ama. Ter fé é mais que desenvolver uma mera expectativa, é a construção da esperança interiormente mesmo que seja na face do improvável ou implausível. Assim sendo, amar parece-se em muito com uma experiência eminentemente religiosa na medida em que sacraliza a experiência da pessoa que ama e a vida, atribuindo contornos de divino e transcendental ao que, aos olhos que quem não ama, pode parecer trivial e normal.
 
 Um amor maduro quer-se consciente da necessidade de amar. Fromm diz-nos que o amor maduro está em: "eu preciso de ti porque te amo" e não em "eu amo-te porque preciso de ti". Esta inversão do sentido da frase parece fundamental para que o amor não seja confundido com uma forma de egoísmo. Aqui a necessidade do outro surge em função do amor que temos pelo outro, não sendo o amor consequência da necessidade que temos do outro. Amar maduramente é a aceitação do sacrifício diante da incerteza e da dor por vezes debilitante. Assim desenvolvemos a tolerância que nos permite crescer e desenraizar da perversidade do narcisismo cumprindo a nossa identidade na missão de amar.
+
+{% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
 
 
 ![](https://i.imgur.com/qSebLvB.jpg)

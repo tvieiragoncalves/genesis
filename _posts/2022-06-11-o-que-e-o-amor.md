@@ -11,6 +11,7 @@ author:
   - title: twitter
     url: https://twitter.com/tiago_1989
     icon: ''
+teste: ''
 
 ---
 Muitos livros foram escritos sobre o tema oferecendo perspetivas líricas, narrativas, psicológicas/filosóficas, religiosas, simbólicas e políticas. A resposta varia no seu significado consoante o paradigma teórico de análise. Reconhecendo esta multiplicidade de dimensões do conceito qualquer reflexão será sempre, inevitavelmente parcial, no entanto cumpre realizar-se dado que a importância do tema o exige. Muito se tem dito e muito mais se dirá precisamente porque este é um tema que convida à expressão de uma profunda intimidade universal.
@@ -22,6 +23,8 @@ O amor é uma dádiva na qual ao darmos podemos experienciar a nossa riqueza de 
 Um amor maduro quer-se consciente da necessidade de amar. Fromm diz-nos que o amor maduro está em: "eu preciso de ti porque te amo" e não em "eu amo-te porque preciso de ti". Esta inversão do sentido da frase parece fundamental para que o amor não seja confundido com uma forma de egoísmo. Aqui a necessidade do outro surge em função do amor que temos pelo outro, não sendo o amor consequência da necessidade que temos do outro. Amar maduramente é a aceitação do sacrifício diante da incerteza e da dor por vezes debilitante. Assim desenvolvemos a tolerância que nos permite crescer e desenraizar da perversidade do narcisismo cumprindo a nossa identidade na missão de amar.
 
 ![](https://i.imgur.com/qSebLvB.jpg)
+
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >

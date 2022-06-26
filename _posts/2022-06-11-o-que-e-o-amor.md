@@ -24,8 +24,6 @@ Um amor maduro quer-se consciente da necessidade de amar. Fromm diz-nos que o am
 
 ![](https://i.imgur.com/qSebLvB.jpg)
 
-    <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

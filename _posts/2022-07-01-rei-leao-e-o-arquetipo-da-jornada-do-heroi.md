@@ -24,7 +24,9 @@ Simba era um leãozinho arrogante e prepotente, herdeiro do trono e filho do rei
 
 Esta história de Simba é também a história de todos nós quando nos deparamos com uma transformação significativa da nossa identidade. Isto explica, na terminologia de Carl Jung, o porquê destes arquétipos \[1\] subsistirem no tempo e exercerem poder e atração pela história ao longo dos tempos e por várias gerações. Há várias formas de se contar a história da jornada do herói mas o seu poder subsiste mesmo na atualidade. O espírito humano está permanentemente a ser convidado a embarcar numa aventura, e a transformar-se. O que quer o espírito humano ? Transcender a dificuldade e a culpa e chamar a si a responsabilidade para através da coragem, do amor e da fé transformar a realidade.
 
-_\[1\]: narrativa primordial que compõe uma ideia que passa de geração em geração formando o inconsciente colectivo._![](/uploads/6dc7f3542afef2d3e8e3e87dfa74eed0.jpg)
+_\[1\]: narrativa primordial que compõe uma ideia que passa de geração em geração formando o inconsciente colectivo._
+
+![](https://i.imgur.com/eJNQ5Xy.jpg)
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >

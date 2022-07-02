@@ -1,7 +1,7 @@
 ---
 title: Rei Leão e o arquétipo da jornada do herói.
 image: "/uploads/thumb-1920-1027222.jpg"
-date: 2022-07-01 23:00:00 +0000
+date: 2022-06-30 23:00:00 +0000
 categories: Rei leão e a jornada do herói
 share: true
 teste: ''

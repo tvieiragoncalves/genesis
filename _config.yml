@@ -17,7 +17,7 @@ disqus:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-youtube
+
 
 footer_links:
   - title: Twitter

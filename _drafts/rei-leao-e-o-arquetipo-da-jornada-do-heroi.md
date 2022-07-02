@@ -26,6 +26,8 @@ Esta história de Simba é também a história de todos nós quando nos deparamo
 
 \[^1\]: narrativa primordial que compõe uma ideia que passa de geração em geração formando o inconsciente colectivo.
 
+![17 ideias de A Guarda do Leão | guarda do leao, rei leão, disney rei leão](https://i.pinimg.com/originals/6d/c7/f3/6dc7f3542afef2d3e8e3e87dfa74eed0.jpg)
+
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

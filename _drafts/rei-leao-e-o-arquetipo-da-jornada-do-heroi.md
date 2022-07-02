@@ -2,13 +2,16 @@
 title: Rei Leão e o arquétipo da jornada do herói.
 image: "/uploads/thumb-1920-1027222.jpg"
 date: 2022-07-01 23:00:00 +0000
-categories: ''
-share: false
+categories: Rei leão e a jornada do herói
+share: true
 teste: ''
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - title: twitter
+    url: https://twitter.com/tiago_1989
+    icon: ''
 
 ---
 Durante o curso da nossa vida todos teremos alguma forma de confrontação como uma morte simbólica e subsequente renascimento. Uma parte de nós, da nossa personalidade, definhará perante o desafio de circunstâncias que abalam as fundações que são, no momento, edificantes e estruturantes da nossa realidade. Esta metamorfose é um requisito necessário para que aconteça algum tipo de crescimento psicológico verdadeiramente transformador. Seria incauto pensar que a vida de alguém pode mudar de forma decisiva e significativa sem desse processo decorra uma forma de desafio vital. Neste desafio diria que está presente a confrontação com o medo, a consciencialização das nossas limitações e inevitavelmente a dor e sofrimento subsequentes ao processo.

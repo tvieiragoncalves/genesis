@@ -12,9 +12,11 @@ author:
 
 ---
 
-> Então disse Jesus aos seus discípulos: Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me;  
-> Porque aquele que quiser salvar a sua vida, perdê-la-á, e quem perder a sua vida por amor de mim, achá-la-á.  
-> Pois que aproveita ao homem ganhar o mundo inteiro, se perder a sua alma? Ou que dará o homem em recompensa da sua alma?  
+> 24 Então, disse Jesus a seus discípulos: Se alguém quer vir após mim, a si mesmo se negue, tome a sua cruz e siga-me. 
+>
+> 25 Porquanto, quem quiser salvar a sua vida perdê-la-á; e quem perder a vida por minha causa achá-la-á. 
+>
+> 26 Pois que aproveitará o homem se ganhar o mundo inteiro e perder a sua alma? Ou que dará o homem em troca da sua alma?  
 >   
 > [Mateus 16:24-26](https://www.bibliaonline.com.br/acf/mt/16/24-26+)
 

@@ -1,13 +1,13 @@
 ---
 title: Pegar na cruz
 image: "/uploads/titian_-_christ_carrying_the_cross_-_wga22830.jpg"
-date: 
-categories: ''
+date: 2022-07-29 23:00:00 +0000
+categories: Cruz
 share: true
 teste: ''
 author:
-  name: ''
-  picture: ''
+  name: Tiago Gonçalves
+  picture: "/uploads/288464080_3125619374419801_661336023014190777_n.jpg"
   links: []
 
 ---

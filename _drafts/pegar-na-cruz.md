@@ -1,6 +1,6 @@
 ---
 title: Pegar na cruz
-image: ''
+image: "/uploads/titian_-_christ_carrying_the_cross_-_wga22830.jpg"
 date: 
 categories: ''
 share: true

@@ -28,6 +28,8 @@ O mito do herói na imagem de Cristo contempla a ideia da personificação da ve
 
 O que poderíamos concretizar se nos entregássemos de forma totalmente comprometida à luta pelos nossos objetivos ? Que descobertas faríamos nesse caminho acerca da nossa força, resiliência e simultaneamente das nossas limitações ? Ao que parece este nível de entrega pode permitir-nos aproximar do nosso ideal, ou seja, desenvolver o nosso potencial enquanto pessoas. Para nos permitirmos pegar na cruz temos invariavelmente que nos confrontar com as nossas limitações e procurar algum tipo de superação. Desde logo, essa confrontação com as limitações diz respeito à confrontação com o ressentimento e mágoa que todos sentimos pois nestes sentimentos está contida a negação do sacrifício voluntário em prol do nosso potencial eu. Negamos muitas vezes este sacrifício porque ele implica a negação de uma parte nós, a negação do eu atual em prol do eu potencial, o caminho para o que poderíamos ser tomando consciência do que somos. Daí que seja tão difícil trilhar este caminho, pelo angústia que existe em abdicar de uma determinada imagem virtuosa de nós ou abdicar de pretensas certezas que temos sobre a nossa vida e a realidade que nos rodeia. Paralelamente, ao pegar na cruz deixamos de ser vítimas das nossas circunstâncias pois realizamos um sacrifício voluntário e consciente. Posto isto
 
+0
+
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
 > [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")

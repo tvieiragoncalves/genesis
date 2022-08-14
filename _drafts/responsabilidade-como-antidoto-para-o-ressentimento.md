@@ -30,3 +30,9 @@ Um outra ideia importante parece ser a de grau de responsabilidade, isto é, qua
 Jordan Peterson, Psicólogo Canadiano insta os seus leitores a limpar o quarto pois crê que este fenómeno pode ser o bom princípio para a toma de responsabilidade. O Psicólogo pergunta, como estarão as pessoas equipadas para mudar o mundo, como tantas vezes protestamos de formar magoada, se não conseguimos mudar a nós mesmos. Neste contexto o autor utiliza a imagem de limpar o quarto como exemplo, o princípio da responsabilidade pode começar com algo tão pequeno como limpar o quarto para dar início à ação comprometida com um objetivo valorizado, organizar o mundo.  Desta forma, creio que podemos começar com algo simples, qualquer gesto ou atitude que melhore de alguma forma o caos existente e prosseguir de forma incremental.
 
 ![Dr Jordan B Peterson on Twitter: "Rule IV from my new book Beyond Order:12  More Rules for Life: Notice that opportunity lurks where responsibility has  been abdicated. Illustrated by Juliette Fogra See](https://pbs.twimg.com/media/ErOcLrXWMAMUtmA.jpg:large)
+
+> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
+>
+> [https://lntxbot.com/@tvieiragoncalves](https://lntxbot.com/@tvieiragoncalves "https://lntxbot.com/@tvieiragoncalves")
+>
+> ![](https://i.imgur.com/v8i5Xd3.png)

@@ -3,7 +3,7 @@ title: Responsabilidade como antídoto para o ressentimento.
 image: "/uploads/rakelchafir-sebastiandumitru-2.webp"
 date: 2022-08-13 23:00:00 +0000
 categories: Responsabilidade
-share: false
+share: true
 teste: ''
 author:
   name: Tiago Gonçalves

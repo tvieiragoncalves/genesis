@@ -1,14 +1,17 @@
 ---
 title: Responsabilidade como antídoto para o ressentimento.
 image: "/uploads/rakelchafir-sebastiandumitru-2.webp"
-date: 
-categories: ''
+date: 2022-08-13 23:00:00 +0000
+categories: Responsabilidade
 share: false
 teste: ''
 author:
-  name: ''
-  picture: ''
-  links: []
+  name: Tiago Gonçalves
+  picture: "/uploads/img_0129.png"
+  links:
+  - title: twitter
+    url: https://twitter.com/tiago_1989
+    icon: ''
 
 ---
 Um dos melhores antídotos para o ressentimento e a mágoa, sentimentos tantas vezes destrutivos na nossa vida, é a responsabilidade. A toma da responsabilidade permite-nos analisar a nossa vida não apenas na perspetiva do observador mas também na perspetiva do ator, isto é, da pessoa que toma decisões e exerce ação sobre a realidade. Por responsabilidade entenda-se, a capacidade para chamar a nós mesmos o ónus da criação das circunstâncias em que vivemos através das decisões que tomamos. Desta forma, o mundo em que vivemos, as experiências e relações que temos, os sentimentos que nutrimos são nossa responsabilidade.

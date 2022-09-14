@@ -1,5 +1,5 @@
 ---
-title: Culpa
+title: A culpa e o diálogo entre o narcisismo e a conscenciosidade.
 image: ''
 date: 
 categories: ''
@@ -17,4 +17,4 @@ A presença da culpa como fenómeno psicológico remonta a tempos imemoriais e p
 
 Não sendo capaz de concretizar de forma absoluta os ideais morais que orientam a nossa vida, sentimos de forma contínua culpa. Esta culpa pode não ultrapassar o limiar de deteção que permite ao indivíduo torna-la consciente, no entanto reside em nós influenciando as nossas atitudes e a forma como percebemos a realidade. Quando reside no inconsciente está mais distante de ser interpretada e devidamente integrada como um sinal que nos pode permitir uma resolução ou correção da mesma.
 
-Este sentimento tem variantes importantes no que diz respeito à forma como se expressa em pessoas com diferentes tipos de personalidade. Em pessoas com elevados níveis de conscenciosidade, um traço da personalidade caracterizado pela tendência para o cumprimento escrupusloso de regras, pela organização, pela capacidade de adiar a gratificação/reforço e  pela capacidade de se reger por objetivos; a culpa tem a sua expressão de forma exponenciada. Nestas pessoas, que tendencialmente são atentos observadores dos determinantes morais do comportamento, a culpa parece ter outro impacto. De tal modo que pessoas com elevados níveis de conscenciosidade podem ver-se mais facilmente manipuladas pelos pares narcísicos altamente competentes na manipulação social para conseguir os seus objetivos.
+Este sentimento tem variantes importantes no que diz respeito à forma como se expressa em pessoas com diferentes tipos de personalidade. Em pessoas com elevados níveis de conscenciosidade, um traço da personalidade caracterizado pela tendência para o cumprimento escrupusloso de regras, pela organização, pela capacidade de adiar a gratificação/reforço e  pela capacidade de se reger por objetivos; a culpa tem a sua expressão de forma exponenciada. Nestas pessoas, que tendencialmente são atentos observadores dos determinantes morais do comportamento, a culpa parece ter outro impacto. De tal modo que pessoas com elevados níveis de conscenciosidade podem ver-se mais facilmente manipuladas pelos seus pares narcísicos altamente competentes na manipulação social para alcançar os seus objetivos. 

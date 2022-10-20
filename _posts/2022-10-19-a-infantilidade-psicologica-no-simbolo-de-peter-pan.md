@@ -1,5 +1,5 @@
 ---
-title: A Infantilidade Psicológica No Símbolo de Peter Pan
+title: A infantilidade psicológica no símbolo de Peter Pan
 image: "/uploads/h_peterpan_19755_254732e0.jpeg"
 date: 2022-10-19 23:00:00 +0000
 categories: Crescer

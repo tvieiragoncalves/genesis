@@ -22,6 +22,8 @@ Na peça de teatro que dá voz à personagem, Peter refere "morrer seria uma gra
 
 Nos adultos e jovens que padecem dos males de Peter as múltiplas opções e caminhos que se abrem mentalmente como hipótese cativam a atenção e consequentemente, a noção aguda deste facto pode dificultar a tomada de decisões. Contudo para crescer precisamos de decidir e estar dispostos a sacrificar algo de hipotético para ter algo de concreto, um caminho ou destino. Além desta dificuldade muitas das pessoas que não estão dispostas a sacrificar a sua infância pela sua adultez, têm dificuldade em estabelecer relações recíprocas e equilibradas. Quando nesta posição, procuramos evitar conflitos pois estes podem funcionar como uma espécie de lembrete de que não estamos a tomar responsabilidade, a decidir e enfrentar as consequências das nossas ações. Adicionalmente, esta dificuldade em tomar decisões, assumir responsabilidade e enfrentar os desafios das escolhas que tomamos dificulta o planeamento de objetivos a longo prazo, desta forma convidando a ações mais imediatistas focadas no presente e no curto prazo.
 
+Carl Jung procurou ilustrar este conceito da criança eterna recorrendo a um exemplo da mitologia, o puer aeternus.
+
 Crescer psicologicamente é ter a capacidade de transformar potencial em realidade, de agir  tomando responsabilidade e aceitando os sacrifícios inerentes á escolha e compromisso com os nossos objetivos.
 
 ![James M. Barrie quote: To die will be an awfully big adventure.](https://www.azquotes.com/picture-quotes/quote-to-die-will-be-an-awfully-big-adventure-james-m-barrie-1-90-72.jpg)

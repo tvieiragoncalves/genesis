@@ -11,4 +11,6 @@ author:
   links: []
 
 ---
-Nas crianças encontramos personificada a ideia de potencial. Podemos pensar nas crianças como um livro aberto com várias páginas em branco ainda por escrever apesar da introdução, isto é a genética, já estar escrita. Esta ideia de potencial produz a ideia de possibilidade virtual, sendo esta uma ideia particularmente sedutora em termos narcísicos como veículo para o engrandecimento do ego quando nutrida no adulto.
+Nas crianças encontramos personificada a ideia de potencial. Podemos pensar nas crianças como um livro aberto com várias páginas em branco ainda por escrever apesar da introdução, isto é a genética, já estar escrita. Esta ideia de potencial produz a ideia de possibilidade virtual, sendo esta uma ideia particularmente sedutora em termos narcísicos como veículo para o engrandecimento do ego quando nutrida no adulto. 
+
+Nos adultos e jovens esta ideia de potencial pode significar que as múltiplas opções e caminhos que se abrem mentalmente como hipótese cativam a atenção da pessoa e consequentemente, esta noção aguda deste facto pode dificultar a tomada de decisões. Além deste aspeto há 

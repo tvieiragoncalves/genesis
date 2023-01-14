@@ -1,5 +1,5 @@
 ---
-title: Desmoralização e a urgência da pedagogia da esperança
+title: A desmoralização e a urgência da pedagogia da esperança
 image: "/uploads/song-of-the-angels.jpg"
 date: 2023-01-14 00:00:00 +0000
 categories: esperança

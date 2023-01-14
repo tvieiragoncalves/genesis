@@ -1,6 +1,6 @@
 ---
 title: Desmoralização e a urgência da pedagogia da esperança
-image: "/uploads/song-of-angels-mary-christ1.jpg"
+image: "/uploads/song-of-the-angels.jpg"
 date: 2023-01-14 00:00:00 +0000
 categories: esperança
 share: true
@@ -27,3 +27,5 @@ Como seres humanos um dos principais fatores que nos une é a existência de uma
 A resposta a estas questões atualmente parece complexa, no entanto historicamente muitas vezes o estado ocupou este espaço deixado vago com resultados catastróficos. Assim previu Nietzche, filósofo alemão, quando referiu que o ser humano terá morto Deus e que não irá encontrar água suficiente para lavar o sangue. Somos segundo o autor, os assassinos dos assassinos e a época que se seguiu não é de boa memória para a humanidade, tendo culminado mesmo numa segunda guerra mundial.
 
 Sendo assim, e para que as palavras de Nietzche não se transformem novamente em oráculos, voltemo-nos para a esperança. Sendo esta esperança, a esperança que nos reune sob uma mesma estrutura de valores e nos faz acreditar, ainda que seja difícil, num futuro melhor. Pratiquemos essa pedagogia, porque esse pode mesmo ser um antídoto para a desmoralização que tantas vezes sentimos.
+
+###### 

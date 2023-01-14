@@ -7,7 +7,7 @@ share: true
 teste: ''
 author:
   name: Tiago Gonçalves
-  picture: ''
+  picture: "/uploads/img_0129.png"
   links:
   - title: twitter
     url: https://twitter.com/tiago_1989

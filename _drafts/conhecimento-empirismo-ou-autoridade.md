@@ -25,3 +25,15 @@ Apenas a título de exemplo deixo-vos o cubo de Necker subjetivo que nos guia ne
 ![Aspectos da afiliação epistemológica da Linguística Cognitiva à Psicologia  da Gestalt: percepção e linguagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkF0ur9VpgQaTgh9UmbsG9FUH78y3jUubAAw&usqp=CAU "Necker subjetivo")
 
 Estes exemplos, estudados de forma aprofundada pela escola gestalt de psicologia, guiam-nos através da descrição da forma como construímos o conhecimento. Sendo conscientes dessa forma, estaremos mais próximos de ter uma visão mais clara do mundo que nos rodeia e das nossas limitações enquanto arquitetos da nossa realidade.
+
+![](/uploads/quote-believing-things-on-authority-only-means-believing-them-because-you-have-been-told-them-c-s-lewis-139-97-62.jpg)
+
+> Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
+>
+> tvieiragoncalves@getalby.com
+>
+> [https://getalby.com/p/tvieiragoncalves](https://getalby.com/p/tvieiragoncalves "https://getalby.com/p/tvieiragoncalves")
+>
+> drollbottom26@walletofsatoshi.com
+>
+> ![](/uploads/rsz_1photo_2023-01-14_15-11-16.jpg)

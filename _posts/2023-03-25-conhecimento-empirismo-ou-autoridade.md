@@ -36,4 +36,4 @@ Estes exemplos, estudados de forma aprofundada pela escola gestalt de psicologia
 >
 > drollbottom26@walletofsatoshi.com
 >
-> ![](/uploads/rsz_1photo_2023-01-14_15-11-16.jpg)
+> ![](/uploads/rsz_1photo_2023-01-14_15-11-16.jpg "Sats")

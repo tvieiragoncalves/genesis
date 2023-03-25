@@ -26,7 +26,7 @@ Apenas a título de exemplo deixo-vos o cubo de Necker subjetivo que nos guia ne
 
 Estes exemplos, estudados de forma aprofundada pela escola gestalt de psicologia, guiam-nos através da descrição da forma como construímos o conhecimento. Sendo conscientes dessa forma, estaremos mais próximos de ter uma visão mais clara do mundo que nos rodeia e das nossas limitações enquanto arquitetos da nossa realidade. 
 
-![](/uploads/quote-believing-things-on-authority-only-means-believing-them-because-you-have-been-told-them-c-s-lewis-139-97-62.jpg "cs")
+![](/uploads/quote-believing-things-on-authority-only-means-believing-them-because-you-have-been-told-them-c-s-lewis-139-97-62.jpg)
 
 > Se quiseres apoiar o meu trabalho podes enviar BTC através do seguinte endereço lightning:
 >
